@@ -1,13 +1,8 @@
-Hello Readme!
-<!---
-- 👋 Hi, I’m @maximmihin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
---->
+### Hi there ![wave](https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png)
 
-<!---
-maximmihin/maximmihin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+#### My name is Maxim and I'm a *cadet* (software engineering student) at [School 42](https://42.fr/) in Kazan, Russia.
+
+- I'm currently learning C at 42-cursus.
+- Use GTD in Todoist and Notion.
+- Use Linux on desktop.
+
