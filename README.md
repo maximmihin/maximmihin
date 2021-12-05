@@ -2,7 +2,7 @@
 
 #### My name is Maxim and I'm a *cadet* (software engineering student) at [School 42](https://42.fr/) in Kazan, Russia.
 
-- I'm currently learning C at 42-cursus.
+- I'm currently learning C at [42-cursus](https://github.com/maximmihin/42-cursus).
 - Use GTD in Todoist and Notion.
 - Use Linux on desktop.
 
